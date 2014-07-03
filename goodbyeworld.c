@@ -1,3 +1,4 @@
+/* generic progam with comment*/
 #include <stdio.h>
 
 int main() {
